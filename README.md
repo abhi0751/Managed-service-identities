@@ -7,3 +7,9 @@ A common challenge when building cloud applications is how to manage the credent
 How to enable the managed Identies for any azure resource( azure web application or Azure functions).
 to demostrate I we will use Azure functions.
 ![alt text](https://github.com/abhi0751/images/blob/master/enablemsi.png)
+
+In next screen , enable managed service indenties by by turning the bitton on 
+
+![alt text](https://raw.githubusercontent.com/abhi0751/images/master/enablemsi-2.png)
+
+by selecting on button will register the internally created service principal with Azure Active Directory.
