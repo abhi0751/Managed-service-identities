@@ -6,3 +6,4 @@ A common challenge when building cloud applications is how to manage the credent
 
 How to enable the managed Identies for any azure resource( azure web application or Azure functions).
 to demostrate I we will use Azure functions.
+![alt text](https://www.google.co.in/images/branding/googlelogo/2x/googlelogo_color_120x44dp.png)
